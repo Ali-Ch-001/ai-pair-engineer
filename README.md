@@ -1,5 +1,7 @@
 # AI Pair Engineer & Code Reviewer
 
+**[github.com/Ali-Ch-001/ai-pair-engineer](https://github.com/Ali-Ch-001/ai-pair-engineer)**
+
 An interactive, production-grade Streamlit application that combines automated code review with pair-programming intelligence. Built as a demonstration of applied AI engineering, prompt architecture, and full-stack prototyping for the screening challenge.
 
 ---
